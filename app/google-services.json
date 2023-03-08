@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119175615275",
+    "project_id": "getcontacts-e4a20",
+    "storage_bucket": "getcontacts-e4a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119175615275:android:eaf40944c1934be370eb6e",
+        "android_client_info": {
+          "package_name": "com.example.getcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119175615275-i0b52n620g928mqpdno51h7a9a7ve3f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1dZRpJ-5Xqliv5ntR7rXpk0Qw4_H70A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119175615275-i0b52n620g928mqpdno51h7a9a7ve3f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
